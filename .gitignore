@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Node.js
+node_modules/
+build/
+.env
+
+# Docker
+/db-data
+*.log
+
+# Kubernetes
+*.yaml
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
